@@ -1,8 +1,8 @@
-machine:
+machine: Linux
   ruby:
     version: 2.3.1
 dependencies:
-  pre:
+ " pre:"
     - script/setup
 test:
   override:
